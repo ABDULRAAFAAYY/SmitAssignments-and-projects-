@@ -1,0 +1,18 @@
+User ID: 20728
+Name: abdul rafay
+contact_no: 3112991799
+password: 123465
+money: 0
+deposit: []
+withdrawal: []
+
+
+
+User ID: 11739
+Name: abdul shafay
+contact_no: 3002991799
+password: 456123
+money: 0
+deposit: ['A deposit has been made of 10000 on 19:43:08']
+withdrawal: ['A withdrawal has been made of 5000 on 19:43:08']
+
